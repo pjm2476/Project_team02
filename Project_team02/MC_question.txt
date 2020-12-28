@@ -1,0 +1,10 @@
+Q. Choose the operator with the highest priority among the following.
+Q. Which of the following is the wrong class declaration?
+Q. which is wrong with the description of method overloading in Java?
+Q. The following is a description of static. What is wrong?
+Q. Which of the following is the highest exception object?
+Q. Which of the following is not the advantage of Encapsulation, one of the object-oriented concepts?
+Q. What's wrong with the description of the interface?
+Q. The following is an explanation of Java's exception handling. What is wrong?
+Q. What is appropriate for a description of the Nested class?
+Q. What is appropriate for an explanation of generic programming?

@@ -1,0 +1,20 @@
+Q. String type of JAVA is a _________ type.
+Q. In JAVA, __________ between boolean type and integer type is possible.
+Q. When using Substring, an ______ separate from the existing String is created.
+Q. When comparing String in JAVA, we can use ______ method
+Q. The standard input stream object and the standard output stream object are declared in the ______ _____.
+Q. If you use __ in System.out.printf("%__.2f"), -10000.0/3.0);, you can print the absolute value of the decimal point.
+Q. ____ __ _____ is that method gets the copy value of argument(parameter) value.
+Q. The static method exists in the ______ area of the memory, so it can be used immediately without creating an object.
+Q. Using the _____________ method, you can create a new array and copy the values ​​of the original array.
+Q. ____ _____ allows you to use mathematical constants (Pi, e).
+Q. Mutator method changes ______ state.
+Q. Workhorse class refers to a class that does not have a main method.
+Q. When calling the constructor, use the ___ operator
+Q. What is the function that allows you to define two or more functions of the same name in the same class?
+Q. what is the name of default Access modifier?
+Q. When using the tag keyword, what is the first character?
+Q. The collection of classes that have similar functions is called a _______.
+Q. ___ file is a ZIP file with several classes.
+Q. Instanceof can be used to prevent class ____ exception.
+Q. The implementation of a method in an abstract class is done in a ________.

@@ -1,0 +1,10 @@
+1-()
+1-protected class MyClass{..}
+1-Occurs within the same class.
+1-You can specify static in member variables and methods.
+1-Exception
+1-This is the degree to which it is dependent on other classes.
+1-A class can inherit from only one parent class, but an interface can inherit from multiple interfaces.
+1-There can be multiple catch statements in the try~catch~finally statement.
+1-Regular inner class can access private member field of outer class.
+1-An executable program with a generic class can be executed only in the latest JVM that can handle generic programming syntax

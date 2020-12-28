@@ -1,0 +1,10 @@
+3-&&
+3-abstract class MyClass{..}
+3-it is a method to support polymorphism.
+3-All variables declared in static methods become static variables.
+3-RemoteException
+3-This can prevent improper modification of class attributes.
+3-Unlike classes, interfaces cannot have a hierarchical structure in an inheritance relationship.
+3-Exception type must be defined for every method.
+3-Static nested class can access any member field of outer class.
+3-The class from which the type variable has been removed from the generic class is called a raw type.

@@ -1,0 +1,10 @@
+2-++
+2-public class MyClass{..}
+2-The parameters must have the same type or number.
+2-Static type variables are allocated memory when class is loaded, and their area is fixed until the end of the program.
+2-IOException
+2-You can change the implementation of a class without changing the interface.
+2-Interface inheritance uses the extends reserved word.
+2-The finally statement can be omitted.
+2-Local inner class can have static member fields and static methods.
+2-When the Manager class is a subclass of the Employee class, Pair<Manager> can be said to be a subclass of Pair<Employee>.

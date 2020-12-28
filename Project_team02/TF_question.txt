@@ -1,0 +1,20 @@
+Q. Java is open-source and free
+Q. Java version 1.0 was released in 1996.
+Q. The JVM is bound by the execution environment
+Q. There is no need to set Java environment variable to develop JAVA.
+Q. Java is not case sensitive
+Q. In Java, the name of the source file does not need to same as the name of class
+Q. When the JVM runs, it looks for the main method a second time
+Q. The static method exist in the static area of the memory, so it can be used immediately without creating an object
+Q. JAVA's integer type is not machine dependent
+Q. The number of primitive types of JAVA is 8
+Q. Object-oriented programming was used before structured programming
+Q. Even if encapsulation is used, security cannot be enhanced.
+Q. You can create a sub class using the inheritance of .JAVA
+Q. When distinguishing between .class and method, it can be said that class plays the role of verb and method plays the role of noun.
+Q. There is no predefined class in JAVA.
+Q. A mutable String can be created by using the string builder class.
+Q. You can also use the factory methods using now or of to create an instance.
+Q. When creating an object, you usually use an operator called new.
+Q. When using the new operator, it can be said that the object of the class is created by calling the constructor function.
+Q. You can make an immutable String mutable using .toString()
